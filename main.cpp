@@ -1,15 +1,17 @@
 /*
 	*(c) Harrison Pinto (HASPIMA), licencia MIT: http://es.wikipedia.org/wiki/MIT_License
-	*Versión del juego:	0.3b
 
 ToDo:	menú
 		guardar puntaje
-		comentar el código :V
+		comentar el código
 
 */
 
 #include "miniwin/miniwin.h"
+#include "miniwin/Letras.hpp"
 #include <sstream>
+
+
 
 using namespace miniwin;
 using namespace std;
